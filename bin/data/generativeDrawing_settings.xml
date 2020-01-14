@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Drawing_Parameters>
+	<Drawing_Mode>1</Drawing_Mode>
+	<Enable_Auto_Clear_Canvas>1</Enable_Auto_Clear_Canvas>
+	<Enable_Canvas_Rotation>0</Enable_Canvas_Rotation>
+	<Disable_Interaction>1</Disable_Interaction>
+	<Distance_Threshold>150.601</Distance_Threshold>
+	<Line_Width>2</Line_Width>
+	<Noise_Multipliers>18.1633, 17.8912, 17.9592</Noise_Multipliers>
+	<Enable_Depth_Test>1</Enable_Depth_Test>
+	<Enable_Lighting>1</Enable_Lighting>
+	<Show_Light>1</Show_Light>
+	<Light_Position>408.163, -244.898, -2632.65</Light_Position>
+	<Path_Color>255, 255, 255, 255</Path_Color>
+	<Connection_Color>255, 0, 0, 255</Connection_Color>
+	<Enable_Target_Tracking>1</Enable_Target_Tracking>
+	<Animation_Speed>0.2</Animation_Speed>
+	<Rotation_Speed>6</Rotation_Speed>
+	<Camera_Target_Offset>0, 0, 260</Camera_Target_Offset>
+	<Object_Light_Position>-163.265, 0, 163.265</Object_Light_Position>
+	<Area_Light_Position>34.0132, -3299.32, -3197.28</Area_Light_Position>
+</Drawing_Parameters>
